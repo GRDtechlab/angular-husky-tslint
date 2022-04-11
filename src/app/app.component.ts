@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'clean-code';
   ngOnInt() {
-    console.log('helo world');
+    // console.log('helo world');
   }
   // lets add a comment;
   public run() {
