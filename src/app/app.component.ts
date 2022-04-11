@@ -11,5 +11,7 @@ export class AppComponent {
     console.log('helo world');
   }
   // lets add a comment;
-  public run() {}
+  public run() {
+    // debugger;
+  }
 }
